@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+dbb.sqlite3
+/static
+.DS_Store
